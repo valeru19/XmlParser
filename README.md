@@ -1,5 +1,14 @@
 <img width="807" height="974" alt="image" src="https://github.com/user-attachments/assets/a242214f-eae1-4083-8cf9-1e5a0e6cdb5d" />
-@startuml
+
+
+
+
+
+
+
+
+
+{@startuml
 skinparam nodesep 40
 skinparam ranksep 50
 skinparam linetype ortho
@@ -90,4 +99,4 @@ Book -[hidden]down- Publisher
 Publisher -[hidden]down- Address
 Book -[hidden]right- Review
 
-@enduml
+@enduml}
